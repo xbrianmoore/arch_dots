@@ -8,5 +8,6 @@ arch_dots is a repository of config files mainly from the `.config/` folder  for
 -  Editor: neovim
 -  Taskbar: waybar
 -  menu: rofi
+-  files: ranger
 -  other: neofetch
 
